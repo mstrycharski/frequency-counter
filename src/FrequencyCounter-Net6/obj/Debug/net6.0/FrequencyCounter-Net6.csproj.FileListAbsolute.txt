@@ -1,0 +1,15 @@
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\obj\Debug\net6.0\FrequencyCounter-Net6.csproj.AssemblyReference.cache
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\obj\Debug\net6.0\FrequencyCounter-Net6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\obj\Debug\net6.0\FrequencyCounter-Net6.AssemblyInfoInputs.cache
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\obj\Debug\net6.0\FrequencyCounter-Net6.AssemblyInfo.cs
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\obj\Debug\net6.0\FrequencyCounter-Net6.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\bin\Debug\net6.0\FrequencyCounter-Net6.exe
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\bin\Debug\net6.0\FrequencyCounter-Net6.deps.json
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\bin\Debug\net6.0\FrequencyCounter-Net6.runtimeconfig.json
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\bin\Debug\net6.0\FrequencyCounter-Net6.dll
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\bin\Debug\net6.0\ref\FrequencyCounter-Net6.dll
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\bin\Debug\net6.0\FrequencyCounter-Net6.pdb
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\obj\Debug\net6.0\FrequencyCounter-Net6.dll
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\obj\Debug\net6.0\ref\FrequencyCounter-Net6.dll
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\obj\Debug\net6.0\FrequencyCounter-Net6.pdb
+C:\Users\mateusz.strycharski\Documents\GitHub\src\FrequencyCounter-Net6\obj\Debug\net6.0\FrequencyCounter-Net6.genruntimeconfig.cache
