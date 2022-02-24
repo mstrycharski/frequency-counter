@@ -2,7 +2,7 @@ using System;
 
 namespace FrequencyCounter_NetCore31
 {
-    internal class FreqCalc
+    public class FreqCalc
     {
         public static /* RETURNED_TYPE - void only for now */ void FrequencyCounterInStringArray(string[] array1, string[] array2)
         {
